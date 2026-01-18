@@ -94,5 +94,6 @@ RETURN MaxPollutant
 * Implemented **DAX measures** and **Power Query transformations** to calculate KPIs and pollutant insights.
 * Integrated **Azure Maps** for geospatial analysis and designed an intuitive UI with slicers and KPIs.
 
+<img width="1225" height="688" alt="Screenshot 2026-01-14 040535" src="https://github.com/user-attachments/assets/1d3944a6-542f-4b24-8a6d-c9b747f0dbae" />
 
 
