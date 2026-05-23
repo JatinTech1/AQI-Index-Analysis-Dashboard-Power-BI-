@@ -84,7 +84,7 @@ RETURN MaxPollutant
 * Environmental analysis
 * Urban air quality monitoring
 * Data Analyst / Power BI portfolio project
-* Interview showcase project
+* Interview showcase projects
 
 ---
 
